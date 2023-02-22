@@ -11,7 +11,7 @@ namespace HelloWorld_DeBord_Joshua
             Console.WriteLine("What is your last name?");
             string lastName = Console.ReadLine();
             
-            Console.WriteLine("Hello, {firstName} {lastName}!");
+            Console.WriteLine($"Hello, {firstName} {lastName}!");
             
             Console.WriteLine("How has your day been?");
             string dayBeen = Console.ReadLine();
