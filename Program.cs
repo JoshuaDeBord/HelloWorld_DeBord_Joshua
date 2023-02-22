@@ -6,6 +6,8 @@ namespace HelloWorld_DeBord_Joshua
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi! Please answer the following questions!");
+            
             Console.WriteLine("What is your first name?");
             string firstName = Console.ReadLine();
             Console.WriteLine("What is your last name?");
