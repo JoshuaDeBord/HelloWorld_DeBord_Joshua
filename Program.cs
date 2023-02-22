@@ -16,7 +16,8 @@ namespace HelloWorld_DeBord_Joshua
             Console.WriteLine("How has your day been?");
             string dayBeen = Console.ReadLine();
 
-            Console.WriteLine($"I'm happy to know that!");
+            Console.WriteLine($"I'm happy to know that!");  //This is actually extremely cool! I plan to keep learning this as I'm am positive it could help me in the future.!
         }
     }
 }
+
