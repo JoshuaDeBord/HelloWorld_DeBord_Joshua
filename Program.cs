@@ -123,6 +123,7 @@ namespace HelloWorld_DeBord_Joshua
             Console.WriteLine("Never gonna say goodbye");
             Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
             Console.WriteLine("Never gonna tell a lie and hurt you");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
             Console.WriteLine("We've known each other for so long");
             Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
             Console.WriteLine("Your heart's been aching, but you're too shy to say it (to say it)");
