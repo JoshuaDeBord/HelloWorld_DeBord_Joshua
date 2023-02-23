@@ -19,6 +19,29 @@ namespace HelloWorld_DeBord_Joshua
             string dayBeen = Console.ReadLine();
 
             Console.WriteLine($"I'm happy to know that!");  //This is actually extremely cool! I plan to keep learning this as I'm am positive it could help me in the future.!
+
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
+
+            Console.WriteLine("YoU'Ve BeEn ScAmMeD!!");
         }
     }
 }
