@@ -20,7 +20,6 @@ namespace HelloWorld_DeBord_Joshua
             Console.WriteLine("How has your day been?..."); //asks the user how's their day's been
             string dayBeen = Console.ReadLine();
             Console.WriteLine("I'm happy you told me that...");
-            string thanks1 = Console.ReadLine();
             Console.WriteLine("Have you experienced anything unusual recently?...");  //asks the user if they've experienced anything unusual recently
             string experiencedUnsual = Console.ReadLine();
             Console.WriteLine("Well.. I'm gonna leave you here... That's all the information I need from you.. for now. Don't forget we're always watching. You may now leave....");  //thanks the user for the information given and tells the user to leave
